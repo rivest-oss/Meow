@@ -1,6 +1,2 @@
 out/
-.clangd
-.clang-format
-**/*.swp
-.vscode/
-sol2/
+*.swp
